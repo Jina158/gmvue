@@ -282,6 +282,11 @@
         padding-right:20px;
         padding-top:30px;
     }
+	/*jina*/
+	/deep/.el-input__inner {
+	  border: none;
+	}
+	
     .report-dialog {
         line-height: 30px;
     }

@@ -314,7 +314,7 @@ export default {
   }
 }
 </script>
-<style lang="less" scoped>
+<style lang="less" >
 .zxbPage {
   /deep/.el-input__inner {
     border: none;
